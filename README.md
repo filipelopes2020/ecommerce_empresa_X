@@ -10,8 +10,9 @@ projecto de eCommerce em Python
 
 Aqui está um texto em __itálico__ e outro em **bold** 
 
-
-<u>Texto sublinhado</u>
+```python
+def olamundo():
+    print("Olá Mundo!")
 
 [Google](http://www.google.com)
 
