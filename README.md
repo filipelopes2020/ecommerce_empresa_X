@@ -13,6 +13,7 @@ Aqui está um texto em __itálico__ e outro em **bold**
 ```python
 def olamundo():
     print("Olá Mundo!")
+```
 
 [Google](http://www.google.com)
 
