@@ -9,3 +9,10 @@ projecto de eCommerce em Python
    -   coisa 3
 
 Aqui está um texto em __itálico__ e outro em **bold** 
+
+
+<u>Texto sublinhado</u>
+
+[Google](http://www.google.com)
+
+![Tigres](https://static.vecteezy.com/ti/fotos-gratis/t2/23701963-selvagem-leopardo-animal-ilustracao-ai-generativo-gratis-foto.jpg)
