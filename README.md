@@ -15,4 +15,4 @@ Aqui está um texto em __itálico__ e outro em **bold**
 
 [Google](http://www.google.com)
 
-![Tigres](https://static.vecteezy.com/ti/fotos-gratis/t2/23701963-selvagem-leopardo-animal-ilustracao-ai-generativo-gratis-foto.jpg)
+![Ovelhinha](https://www.rd.com/wp-content/uploads/2016/04/01-animals-changed-history-sheep.jpg)
