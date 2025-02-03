@@ -8,7 +8,8 @@ projecto de eCommerce em Python
    -   coisa 2
    -   coisa 3
 
-Aqui está um texto em __itálico__ e outro em **bold** 
+Aqui está um texto em __itálico__ e outro em **bold**.
+
 Podem ver aqui este __maravilhoso__ programa em **Python**:
 
 ```python
